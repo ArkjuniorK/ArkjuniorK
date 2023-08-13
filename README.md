@@ -1,8 +1,8 @@
-## Hello, I am ArkjuniorK 👋
+### Hello, I am ArkjuniorK 👋
 
-### IT Knowledge 📫
-
-### Fun Fact 🌱
+I'm web developer based on Makassar, Indonesia. Currently work as freelance.
+My stack is Go, Javascript/Typescript and Dart.
+I'm currently working on my portfolio website.
 
 
 <!--
