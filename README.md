@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello, I am ArkjuniorK 👋
+
+### IT Knowledge 📫
+
+### Fun Fact 🌱
+
 
 <!--
 **ArkjuniorK/ArkjuniorK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
