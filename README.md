@@ -1,7 +1,7 @@
 ### Hello, I am ArkjuniorK 👋
 
 I'm web developer based on Makassar, Indonesia. Currently work as freelance.
-My stack is Go, Javascript/Typescript and Dart.
+My stack is Go, Javascript/Typescript, PHP and Dart.
 I'm currently working on my portfolio website.
 
 
