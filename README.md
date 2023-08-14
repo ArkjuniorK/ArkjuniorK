@@ -1,4 +1,4 @@
-### Hello, I am Arkjun Yudistra 👋
+### Hello, I am Arkjun Yudistira 👋
 
 I'm web developer based on Makassar, Indonesia. Currently work as freelance.<b/>
 My stack is Go, Javascript/Typescript, PHP and Dart.<b/>
