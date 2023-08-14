@@ -4,12 +4,13 @@ I'm web developer based on Makassar, Indonesia. Currently work as freelance.<b/>
 My stack is Go, Javascript/Typescript, PHP and Dart.<b/>
 I'm currently working on my portfolio website.
 
-#### 🔭 My Expertise:
-1. Frontend Engineer
-   Passionate with UI/UX and building interface using React & Vue.
-2. Backend Engineer
-   Expertise building Websocket and Restful API server using Go and Nodejs.
-3. Flutter Engineer  
+#### 🔭 My Stack:
+1. Frontend Engineer - 
+   Passionate with UI/UX and building web interface using React & Vue.
+2. Backend Engineer - 
+   Building Websocket and Restful API server using Go and Nodejs.
+3. Flutter Engineer - 
+   Building android apps
 
 #### ⚡ Fun fact:
 I was moved from being a UI/UX Designer to Web Developer because of my curiosity about how to design a proper web that ease the devs building process.
