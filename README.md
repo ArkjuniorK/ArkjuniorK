@@ -13,7 +13,7 @@ I'm currently working on my portfolio website.
    Building android apps
 
 #### ⚡ Fun fact:
-I was moved from being a UI/UX Designer to Web Developer because of my curiosity about how to design a proper web that ease the devs building process.
+I switched from being a UI/UX Designer to Web Developer because of my curiosity about how to design a proper web that ease the devs building process.
 It start with most basic thisngs such as HTML, CSS and JS. I should say that it really hard for me since there is no one in my family and environment that had any knowledge about tech.
 Thus with some extra work and support from family and closest people I ended up choosing to change my focus to Web Developer.
 
