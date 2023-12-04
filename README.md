@@ -1,7 +1,7 @@
 ### Hello, I am Arkjun Yudistira 👋
 
 I'm backend developer based on Makassar, Indonesia. Currently work as freelance.
-<b>My stack is Go and Node.js<b/>
+**My stack is Go and Node.js**
 
 #### ⚡ Fun fact:
 
