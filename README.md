@@ -1,13 +1,17 @@
 ### Hello, I am Arkjun Yudistira 👋
 
-I'm backend developer based on Makassar, Indonesia. Currently work as freelance.
+I'm backend engineer based on Makassar, Indonesia. Currently work as freelance.
 **My stack is Go and Node.js**
 
 #### ⚡ Fun fact:
 
 I switched from being a UI/UX Designer to Web Developer because of my curiosity about how to design a proper web that ease the devs building process.
-It start with most basic thisngs such as HTML, CSS and JS. I should say that it really hard for me since there is no one in my family and environment that had any knowledge about tech.
-Thus with some extra work and support from family and closest people I ended up choosing to change my focus to Web Developer.
+It start with most basic thisngs such as HTML, CSS and JS. I should say that it really hard for me since there is no one around that had any knowledge about building sysetem.
+Thus with some extra work and support from families and closest people I'm successfully manage to learn and finally made a simple app.
+
+#### 🔭 I’m currently working on
+
+- [gomomo](https://github.com/ArkjuniorK/gomomo) a boilerplate for Go to build API using Modular Monolith architecture along with DDD principle.
 
 
 <!--
