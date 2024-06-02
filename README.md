@@ -12,6 +12,7 @@ Thus with some extra work and support from families and closest people I'm succe
 #### 🔭 I’m currently working on
 
 - [gomomo](https://github.com/ArkjuniorK/gomomo) a boilerplate for Go to build API using Modular Monolith architecture along with DDD principle.
+- My personal website portfolio
 
 
 <!--
